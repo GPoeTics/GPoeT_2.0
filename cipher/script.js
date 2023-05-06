@@ -1,5 +1,5 @@
-const textField = document.querySelector("#text-input");
-const codeField = document.querySelector("#code-input");
+const textField = document.querySelector("#prompt");
+const codeField = document.querySelector("#output");
 const encryptButton = document.querySelector("#encrypt-button");
 const decryptButton = document.querySelector("#decrypt-button");
 const warningLabel = document.querySelector("#warning-label");
